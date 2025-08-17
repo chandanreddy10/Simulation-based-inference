@@ -1,7 +1,4 @@
 # 🪐 Simulation-Based Inference (3-Body Problem)
-
-> **Note**: This repository is a work in progress 🚧
-
 ## 📖 Overview
 
 This project explores simulation-based inference (SBI) for solving the **3-body problem** — a classic problem in physics involving the motion of three celestial bodies under mutual gravitational influence.
