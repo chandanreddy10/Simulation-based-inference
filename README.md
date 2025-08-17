@@ -11,9 +11,7 @@ Using simulation data and neural posterior estimation, the goal is to approximat
 - Visualize trajectories
 - Use SBI to infer initial conditions
 - Evaluate posterior estimation
-
-## 🧰 Technologies Used
-....
+  
 ## ⚙️ Setup
 
 ### Clone the repository
